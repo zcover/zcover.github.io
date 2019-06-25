@@ -24,3 +24,23 @@ My first step to becoming a computer software engineer/developer. Today we cover
   - *Talent* does not inherently exist, but is simply a visual state of understanding. People are diverse, and therefore will understand *things* in different ways, and at varying levels of scope. **Everything can be learned, and everyone can master everything.**
   - Someone who has tuned their mindset in-line that of the *"Growth Mindset"* are more likely to have an understanding and commitment to the term ***"No pain, no gain"***
   - The most important thing I gained from this introduction of the Growth Mindset, was the negative things I can do in my life to close off this growth, and that turning away from challenges, or giving up at the signs of difficulty or lack of clarity, create a **fixed** mindset, and hinder my learning capabilities.
+
+
+
+##The Journal
+My instructor wants me to now create a journal describing things that I have learned. From the way he has been talking about it, the most important thing to have taken from today's class, is understanding the _A-C-P_ process of github.
+
+### ACP 
+A-C-P is the process in which we pull a repository from github, make changes from the git file, and submit the edited file to the repo owner. The file typing, although maybe not in file type, is a git file. This means that the file is recording changes done to it, even if those changes arent reflected on the __head__, or main/visible file.
+
+Although the **ACP** process is formatted as instructions, starting with A and giong to P, there is actually 2 additional _git_ commands which we utilize in the process.
+
+- git *clone* _"link"_ (without the quotations) will pull the specified repo from the github website. 
+You will then be able to identify and enter the specified folder containing the files you wish to view or edit.
+
+- git *status* will let you know where you're at in regards to a git file's condition. Has it been edited? Have those edits been commited [to stone?] Or is the file awaiting re-upload to the "mothership" that is the original repo file? *git status* will give you an idea of where you left off.
+
+**Now** that we've covered the 2 special commands, lets focus on the big 3!
+- **A** "add" This command is used after you clone, or download the file to your local device. This is the first command that allows you to begin editing, or making changes to, the file in question.
+- **C** "commit" The commit command basically sets into stone the changes you made. It *commits* your decisions to the file, basically the "save" function when dealing with git files.
+- **P** Now that the file has been pulled into your local storage, a specific file has been selected for edeting, and finally we have commit any and all changes to the file, it is now time to **_Push_** the file back up to the Github repository. This finalizes and allows the changes made to be visible on the **head** page/file.
