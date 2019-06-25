@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Zerek Cover's About me Page
+Hello! My name is Zerek, and I've got a great story to be told, and yet- my life is only just beginning!
+Despite that, I have already begun a new path, a path of coding! Hopefully you find this to be inetersting, and I hope you enjoy your journey with me through my coding career!
 
-You can use the [editor on GitHub](https://github.com/zcover/zcover.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Before we get too far ahead, please feel free to visit my [Github Profile page!](https://github.com/zcover)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## A little about me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have a few unique features of my life, some of which I shared in class on monday!
+Here are just a few more interesting things to share about myself:
+- I am the oldest of 5, with an extended married-in siblings, making me 3rd in line out of 8 total children.
+- I am the older brother of Triplets, who are 10 years younger than me, and are becoming Juniors in Highschool! (Scary!!!)
+- When I was born, I had a condition **resulting in the need to remove 2/3 of my right-lung at birth**
+  -Despite the previous point, I excelled in JROTC throughout high school, managing to run a nearly 6-minute mile my Senior year!
+  
+  
+## Coding 102 (Day 1)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zcover/zcover.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+My first step to becoming a computer software engineer/developer. Today we covered a lot about how <codefellows> plans to teach us, as well as ways that they have found we, as students, actually *learn*.
+  
+   ### Growth Mindset
+  Probably the most important thing to have been brought up today, was the focus of "Growth Mindset." This is the mindset that we as humans learn in a progressive manner. 
+  - *Talent* does not inherently exist, but is simply a visual state of understanding. People are diverse, and therefore will understand *things* in different ways, and at varying levels of scope. **Everything can be learned, and everyone can master everything.**
+  - Someone who has tuned their mindset in-line that of the *"Growth Mindset"* are more likely to have an understanding and commitment to the term ***"No pain, no gain"***
+  - The most important thing I gained from this introduction of the Growth Mindset, was the negative things I can do in my life to close off this growth, and that turning away from challenges, or giving up at the signs of difficulty or lack of clarity, create a **fixed** mindset, and hinder my learning capabilities.
