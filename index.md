@@ -27,7 +27,7 @@ My first step to becoming a computer software engineer/developer. Today we cover
 
 
 
-## The Journal
+# The Journal
 My instructor wants me to now create a journal describing things that I have learned. From the way he has been talking about it, the most important thing to have taken from today's class, is understanding the _A-C-P_ process of github.
 
 ### ACP 
