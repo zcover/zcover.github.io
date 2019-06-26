@@ -27,7 +27,7 @@ My first step to becoming a computer software engineer/developer. Today we cover
 
 
 
-##The Journal
+## The Journal
 My instructor wants me to now create a journal describing things that I have learned. From the way he has been talking about it, the most important thing to have taken from today's class, is understanding the _A-C-P_ process of github.
 
 ### ACP 
@@ -44,3 +44,5 @@ You will then be able to identify and enter the specified folder containing the 
 - **A** "add" This command is used after you clone, or download the file to your local device. This is the first command that allows you to begin editing, or making changes to, the file in question.
 - **C** "commit" The commit command basically sets into stone the changes you made. It *commits* your decisions to the file, basically the "save" function when dealing with git files.
 - **P** Now that the file has been pulled into your local storage, a specific file has been selected for edeting, and finally we have commit any and all changes to the file, it is now time to **_Push_** the file back up to the Github repository. This finalizes and allows the changes made to be visible on the **head** page/file.
+
+### html and CSS
