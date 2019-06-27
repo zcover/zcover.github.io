@@ -45,4 +45,23 @@ You will then be able to identify and enter the specified folder containing the 
 - **C** "commit" The commit command basically sets into stone the changes you made. It *commits* your decisions to the file, basically the "save" function when dealing with git files.
 - **P** Now that the file has been pulled into your local storage, a specific file has been selected for edeting, and finally we have commit any and all changes to the file, it is now time to **_Push_** the file back up to the Github repository. This finalizes and allows the changes made to be visible on the **head** page/file.
 
+### Text Editors/IDE's
+
+**Text Editors**
+
+- Text Editors are programs of software which literally allow the user to edit text, allowing the creation of CSS and html files. They literally edit text, which allows you to begin typing up forms of code, and then put those pieces of code into the expected program or software to run, test, or debug what was written.
+- Not all Text Editors are created equal, as all 3 of the primary operating systems (Linux, Microsoft, Mac) come with a *bare-bones* version of text editor. 
+- More advanced, and at times at a higher-than-free cost, editors can also be used to run, test, and/or debug code, such as VS Code that we are using in this 102 class.
+
+**IDE**
+
+- Ide stands for *Integrated Development Environment*. These are application softwares that consist of a variety of tools surrounding a higher-grade text editor, for the explicit purpose of writing and developing code. 
+- The example used in the context put it in an easy to understand format:
+*"You can think about an IDE very much like Microsoft Outlook. If you’ve ever used Microsoft Outlook, you would have quickly noticed that it was an email client, a calendar, a task manager, a to-do list all in one software package. Similar to how an IDE is an all-in-one software package."*
+This means that it basically wraps a whole studio of developer's tools and featuers into one location.
+- An IDE is not something that one who is new to coding should use, I think, as it would likely overwhelm the user who is not used to so many tools, which may limit the understanding of code, and/or simply get lost in all of the different tools and settings available, without any comparison or prior knowledge to understand purpose.
+
+
+
+
 ### html and CSS
