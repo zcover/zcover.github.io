@@ -78,7 +78,8 @@ Below are some of the bash commands that I felt the need to write down or commit
 - *pwd* Shows you which directory the user is currently in. 
 - *mkdir* will create a directory, which can also be known as a folder that you put files into.
 - *touch* Creates a file within the selected directory. The created file can be saved as a particular file type, examples include .txt, .css, .html, etc.
-- 
+
+The only other commands I would put onto this list, are the previously mentioned *git* commands.
 
 
 
