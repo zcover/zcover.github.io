@@ -61,7 +61,13 @@ You will then be able to identify and enter the specified folder containing the 
 This means that it basically wraps a whole studio of developer's tools and featuers into one location.
 - An IDE is not something that one who is new to coding should use, I think, as it would likely overwhelm the user who is not used to so many tools, which may limit the understanding of code, and/or simply get lost in all of the different tools and settings available, without any comparison or prior knowledge to understand purpose.
 
+##Command Line
 
+**The Command Terminal** is a tool within operating systems, which allow file navigation, execution, and all other files or directory *things*. The reason this is important to know, is because it is not always used by the user. Most users are familiar with the "File Explorer", or "My Computer" tools, which displays files and directories, and where changes can be made. 
+
+- The file explorer and Command Terminal are basically the same thing, but without a gui
+
+**gui** stands for **_Graphical User Interface_**. This literally means that it is user interface with a graphic (visual) overlay.
 
 
 ### html and CSS
