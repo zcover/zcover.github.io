@@ -69,5 +69,17 @@ This means that it basically wraps a whole studio of developer's tools and featu
 
 **gui** stands for **_Graphical User Interface_**. This literally means that it is user interface with a graphic (visual) overlay.
 
+**Shortcuts**
+Below are some of the bash commands that I felt the need to write down or commit to memory for my benefeit.
+
+- *ls and ls -"Directory"* will show the contents of the current directy you are in, or by doing -l and entering a specific directory, will display the contents of *that* directory.
+- *cd* is the "back button" of the bash interface. Typing cd .. or cd ../.. will take you out 2 or more times back.
+  - *cd* followed by the desired directory name will move the user into the selected folder. Example: *cd testfolder* will take you into the folder (directory) named "testfolder"
+- *pwd* Shows you which directory the user is currently in. 
+- *mkdir* will create a directory, which can also be known as a folder that you put files into.
+- *touch* Creates a file within the selected directory. The created file can be saved as a particular file type, examples include .txt, .css, .html, etc.
+- 
+
+
 
 ### html and CSS
