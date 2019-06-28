@@ -87,4 +87,9 @@ The only other commands I would put onto this list, are the previously mentioned
 
 
 
-###
+### Introduction to JavaScript
+- JavaScript is the first _actual_ coding we'll be getting into. It is logic based, rather than string based. HTML and CSS simply **_do_** things, because they're _basically_ pre-programmed to do things. 
+  - JavaScript is different in that it can do things in many different ways, if we make it think it can, using logical syntax.
+
+
+**Experessions and Operators:**
