@@ -93,3 +93,16 @@ The only other commands I would put onto this list, are the previously mentioned
 
 
 **Experessions and Operators:**
+
+
+
+Test Unordered list:
+Alphabet
+: alphabet 
+>potato 
+@list 
+@ list
+= list
+=potate 
+* ok
+* ok
