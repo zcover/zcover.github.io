@@ -107,3 +107,8 @@ Alphabet
 * ok
 * ok
 + if you say so
+
+&dragonfly
+& dragonfly
+'potat' 'potate'
+`bob` 
